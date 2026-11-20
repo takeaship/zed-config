@@ -1,0 +1,43 @@
+{
+  "session": {
+    "trust_all_worktrees": true
+  },
+  "vim_mode": true,
+  "preview_tabs": {
+    "enabled": false
+  },
+  "sticky_scroll": {
+    "enabled": true
+  },
+  "minimap": {
+    "show": "always"
+  },
+  "show_edit_predictions": true,
+  "base_keymap": "VSCode",
+  "agent_servers": {
+    "antigravity-acp": {
+      "type": "registry"
+    },
+    "claude-acp": {
+      "type": "registry"
+    },
+    "codex-acp": {
+      "type": "registry"
+    },
+    "github-copilot-cli": {
+      "type": "registry"
+    }
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 15,
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "Ayu Mirage"
+  },
+  "agent": {
+    "expand_edit_card": false,
+    "expand_terminal_card": false,
+    "thinking_display": "always_collapsed"
+  }
+}
